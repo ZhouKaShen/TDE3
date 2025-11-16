@@ -1,14 +1,14 @@
 # TDE3
 
-<br>
+</br>
 
 **Jantar dos Filósofos, Semáforos e Deadlock**
 
-<br>
+</br>
 
 **Este projeto simula problemas clássicos de concorrência em Java:**
 
-<br>
+</br>
 
 **Jantar dos Filósofos**
 **Condição de corrida em contador compartilhado e correção com Semaphore**
